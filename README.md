@@ -40,7 +40,7 @@ but am able to work across Boeing and General Aviation too.
 <li>PHP/MySQL</li>
 <li>LaTeX/Markdown</li>
 <li>C# / C++ (Beginner)</li>
-<li>3D Printing / CNC Milling</li>
+<li>3D Printing / CNC Milling / Laser Cutting</li>
 </ul>
 
 ---
