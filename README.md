@@ -4,8 +4,7 @@
 
 Hello! I’m interested in flight simualation (and real world aviation too!).  
 I am mainly interested in building software/hardware solutions for home cockpits and desktop flight simulation.  
-This is from small button/switch boxes, through to complete working replica panels.  
-I'm still new to this area, but have an example project [here](https://youtu.be/HxthydQtna8).
+This is from small button/switch boxes, through to complete working replica panels.
 
 I'm also interested in model railways, and really enjoy implementing automation into those.  
 I have built my own large model railway, and some of this can be seen on my [YouTube](https://www.youtube.com/TonyDocksStation)
@@ -23,31 +22,34 @@ but am able to work across Boeing and General Aviation too.
 ## Current Projects
 
 <ol>
-<li>Currently collaborating on the OpenA3xx project</li>
-<li>Working on a custom desktop panel for Airbus A320 family (see above linked video).</li>
-<li>Finishing custom CNC machine build (MPCNC Project).</li>
-<li>Working on Take off performance calculator for the Airbus A320 family.</li>
-<li>Oh, and obviously exisiting projects for my University course!</li>
+  <li>Building custom hardware to integrate with exisiting flight simulation software</li>   
+  <li>Currently collaborating on the OpenA3xx project</li>
+  <li>Recnetly completed my own CNC/Laser Machine (MPCNC)</li>
+  <li>Exisiting projects for my University course!</li>
 </ol>
+<img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/274334072_10165671017085198_1442885230990655883_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=5cd70e&_nc_eui2=AeE7m0XKeAPlBQ2I5wqKIbkEHcqusZwbaCUdyq6xnBtoJfBnwfx0pYhSnfT9fkdyEKw&_nc_ohc=fVIeGHHol1YAX9jEbiG&_nc_ht=scontent-lcy1-1.xx&oh=00_AT8AW8auCRZJ6TRTH3PhFMQGCyyJ1sGERqb8BW6GzaHfJg&oe=622ACCCC" width="350" /> 
 
 ---
 
 ## Abilities
 
 <ul>
-<li>Java</li>
-<li>HTML/CSS/JavaScript</li>
-<li>PHP/MySQL</li>
-<li>LaTeX/Markdown</li>
-<li>C# / C++ (Beginner)</li>
-<li>3D Printing / CNC Milling / Laser Cutting</li>
+  <li>Java</li>
+  <li>Haskell/Erlang</li>
+  <li>HTML/CSS/JavaScript/PHP</li>
+  <li>PostgreSQL/MySQL</li>
+  <li>LaTeX/Markdown</li>
+  <li>C#</li>
+  <li>C/C++</li>
+  <li>3D Printing / CNC Milling / Laser Cutting</li>
 </ul>
 
 ---
 
 ## Academia
 
-I’m currently a full time university student studying BSc (Hons) Computer Science (with Artificial Intelligence) at the University of Kent (UK).  I've just completed my first year, so am still learning.
+I’m currently a full time university student studying BSc (Hons) Computer Science at the University of Kent (UK).  I've just about to complete my second year, and will be starting my final year in Oct 2022.   
+I aim to continue on into a PhD after graduating.   
 
 ---
 
