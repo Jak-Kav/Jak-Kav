@@ -27,7 +27,7 @@ but am able to work across Boeing and General Aviation too.
   <li>Recnetly completed my own CNC/Laser Machine (MPCNC)</li>
   <li>Exisiting projects for my University course!</li>
 </ol>
-<img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/274334072_10165671017085198_1442885230990655883_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=5cd70e&_nc_eui2=AeE7m0XKeAPlBQ2I5wqKIbkEHcqusZwbaCUdyq6xnBtoJfBnwfx0pYhSnfT9fkdyEKw&_nc_ohc=fVIeGHHol1YAX9jEbiG&_nc_ht=scontent-lcy1-1.xx&oh=00_AT8AW8auCRZJ6TRTH3PhFMQGCyyJ1sGERqb8BW6GzaHfJg&oe=622ACCCC" width="350" /> 
+<!-- <img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/274334072_10165671017085198_1442885230990655883_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=5cd70e&_nc_eui2=AeE7m0XKeAPlBQ2I5wqKIbkEHcqusZwbaCUdyq6xnBtoJfBnwfx0pYhSnfT9fkdyEKw&_nc_ohc=fVIeGHHol1YAX9jEbiG&_nc_ht=scontent-lcy1-1.xx&oh=00_AT8AW8auCRZJ6TRTH3PhFMQGCyyJ1sGERqb8BW6GzaHfJg&oe=622ACCCC" width="350" />  -->
 
 ---
 
