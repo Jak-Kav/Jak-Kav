@@ -14,8 +14,7 @@ I have built my own large model railway, and some of this can be seen on my [You
 ## Goals & Aspirations 
 
 Eventually, I would love to work in real world aviation and avionics software.  
-I have a keen interest in Airbus as I am familiar with their software and avionics,  
-but am able to work across Boeing and General Aviation too.
+I have a keen interest in Airbus as I am familiar with their software and avionics, but am able to work across Boeing and General Aviation too.
 
 ---
 
@@ -23,8 +22,8 @@ but am able to work across Boeing and General Aviation too.
 
 <ol>
   <li>Building custom hardware to integrate with exisiting flight simulation software</li>   
-  <li>Currently collaborating on the OpenA3xx project</li>
-  <li>Recnetly completed my own CNC/Laser Machine (MPCNC)</li>
+  <li>Currently releasing the Airbus A3xx FCU Custom LCD module</li>
+  <li>Recently completed building my own CNC/Laser Machine (MPCNC)</li>
   <li>Exisiting projects for my University course!</li>
 </ol>
 <!-- <img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/274334072_10165671017085198_1442885230990655883_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=5cd70e&_nc_eui2=AeE7m0XKeAPlBQ2I5wqKIbkEHcqusZwbaCUdyq6xnBtoJfBnwfx0pYhSnfT9fkdyEKw&_nc_ohc=fVIeGHHol1YAX9jEbiG&_nc_ht=scontent-lcy1-1.xx&oh=00_AT8AW8auCRZJ6TRTH3PhFMQGCyyJ1sGERqb8BW6GzaHfJg&oe=622ACCCC" width="350" />  -->
@@ -35,6 +34,11 @@ but am able to work across Boeing and General Aviation too.
 
 <ul>
   <li>Java</li>
+  <liPython</li>
+  <li>Natural Language Processing</li>
+  <li>Machine Learning & AI</li>
+  <li>R</li>
+  <li>IBM SPSS Statistics</li>
   <li>Haskell/Erlang</li>
   <li>HTML/CSS/JavaScript/PHP</li>
   <li>PostgreSQL/MySQL</li>
@@ -42,13 +46,14 @@ but am able to work across Boeing and General Aviation too.
   <li>C#</li>
   <li>C/C++</li>
   <li>3D Printing / CNC Milling / Laser Cutting</li>
+  <li>CAD Drawing & 3D Modelling</li>
 </ul>
 
 ---
 
 ## Academia
 
-I’m currently a full time university student studying BSc (Hons) Computer Science at the University of Kent (UK).  I've just about to complete my second year, and will be starting my final year in Oct 2022.   
+I’m currently a full time university student studying BSc (Hons) Computer Science at the University of Kent (UK).  I am starting my final year in Oct 2022.   
 I aim to continue on into a PhD after graduating.   
 
 ---
