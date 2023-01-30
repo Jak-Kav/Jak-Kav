@@ -3,17 +3,21 @@
 ## About me
 
 Hello! I’m interested in flight simualation (and real world aviation too!).  
-I am mainly interested in building software/hardware solutions for home cockpits and desktop flight simulation.  
-This is from small button/switch boxes, through to complete working replica panels.
-
+My flight simulation interests are in building software/hardware solutions for home cockpits and desktop flight simulation. 
+<!-- 
 I'm also interested in model railways, and really enjoy implementing automation into those.  
-I have built my own large model railway, and some of this can be seen on my [YouTube](https://www.youtube.com/TonyDocksStation)
+I have built my own large model railway, and some of this can be seen on my [YouTube](https://www.youtube.com/TonyDocksStation) -->
+
+My interests within academia are currently in computer science, specifically <em>Natural Language Processing</em> with an emphasis on the effects of creativity.
+I have a published paper (details below) in this area, and will continue my research into a PhD. I am looking to collaborate in this, and similar areas.
 
 ---
 
 ## Goals & Aspirations 
 
-Eventually, I would love to work in real world aviation and avionics software.  
+Currently, my aim is to complete my undergraduate degree and move into a PhD. 
+
+I would also like to explore work within real world aviation and avionics software.  
 I have a keen interest in Airbus as I am familiar with their software and avionics, but am able to work across Boeing and General Aviation too.
 
 ---
@@ -21,6 +25,8 @@ I have a keen interest in Airbus as I am familiar with their software and avioni
 ## Current Projects
 
 <ol>
+  <li>Research in Natural Language Processing</li>
+  <li>Currently in print for the IEEE ICSC 2023</li>
   <li>Building custom hardware to integrate with exisiting flight simulation software</li>   
   <li>Currently releasing the Airbus A3xx FCU Custom LCD module</li>
   <li>Recently completed building my own CNC/Laser Machine (MPCNC)</li>
@@ -39,7 +45,7 @@ I have a keen interest in Airbus as I am familiar with their software and avioni
   <li>Machine Learning & AI</li>
   <li>R</li>
   <li>IBM SPSS Statistics</li>
-  <li>Haskell/Erlang</li>
+  <li>Haskell/Erlang/OCaml</li>
   <li>HTML/CSS/JavaScript/PHP</li>
   <li>PostgreSQL/MySQL</li>
   <li>LaTeX/Markdown</li>
@@ -53,17 +59,22 @@ I have a keen interest in Airbus as I am familiar with their software and avioni
 
 ## Academia
 
-I’m currently a full time university student studying BSc (Hons) Computer Science at the University of Kent (UK).  I am starting my final year in Oct 2022.   
-I aim to continue on into a PhD after graduating.   
+My most recent publication is in the 17th IEEE International Conference on Semantic Computing
+[Link Text](https://www.ieee-icsc.org/)
+<em>"Assessing the Effects of Lemmatisation and Spell Checking on Sentiment Analysis of Online Reviews"</em>
+
+I’m currently a full time university student studying BSc (Hons) Computer Science at the University of Kent (UK).  
+I am in my final year and will be graduating this summer. I currently have an application to continue on into a PhD after graduating.   
 
 ---
 
 ## Contact
 
-I’m looking to collaborate on flight simulation software/hardware projects.  
 How to reach me:  
 
-- Discord: <em>Kavster#4400</em>
-- Email: <em>jk620@kent.ac.uk</em>
+Please use my academic email for anything to do with computer science
+- Academic Email: <em>jk620@kent.ac.uk</em>
+Please use my personal email address for anything to do with flight simulation
+- Flight Simulation Email: <em>info@jak-kav.co.uk</em>
 
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/551ad525-3325-4c21-a1e0-aa62a958f96b-profile_image-300x300.png" width="200" />
