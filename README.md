@@ -59,8 +59,7 @@ I have a keen interest in Airbus as I am familiar with their software and avioni
 
 ## Academia
 
-My most recent publication is in the 17th IEEE International Conference on Semantic Computing
-[Link Text](https://www.ieee-icsc.org/)
+My most recent publication is in the [17th IEEE International Conference on Semantic Computing](https://www.ieee-icsc.org/)
 <em>"Assessing the Effects of Lemmatisation and Spell Checking on Sentiment Analysis of Online Reviews"</em>
 
 I’m currently a full time university student studying BSc (Hons) Computer Science at the University of Kent (UK).  
@@ -72,9 +71,9 @@ I am in my final year and will be graduating this summer. I currently have an ap
 
 How to reach me:  
 
-Please use my academic email for anything to do with computer science
+Please use my academic email for anything to do with computer science.    
+Please use my personal email address for anything to do with flight simulation.    
 - Academic Email: <em>jk620@kent.ac.uk</em>
-Please use my personal email address for anything to do with flight simulation
 - Flight Simulation Email: <em>info@jak-kav.co.uk</em>
 
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/551ad525-3325-4c21-a1e0-aa62a958f96b-profile_image-300x300.png" width="200" />
