@@ -1,3 +1,14 @@
+# KAVSIM FCU INFO!
+If you are here because you followed the weblink on the back of the FCU display - please ignore this.
+You no longer need to visit the GitHub directory. Please just download MobiFlight, and install the firmware from there inside the application.
+
+You can view this video for more info: [https://www.youtube.com/watch?v=ebQcOnILq-M](https://www.youtube.com/watch?v=ebQcOnILq-M)
+
+**This** GitHub profile is now my own *personal* one.
+If you wish to view the code for development or contribution, it is now hosted here: [https://github.com/kav-simulations](https://github.com/kav-simulations)
+
+---
+
 # Jak Kav
 
 ## About me
